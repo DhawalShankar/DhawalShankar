@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhawal
-- 👀 I’m interested in creativity through code and words
+- 👀 I’m interested in creativity through code and quotes
 - 🌱 I’m currently learning DSA
 - 📫 Reach me at my social media handles and mail address
 - 😄 Pronouns: He / Him
