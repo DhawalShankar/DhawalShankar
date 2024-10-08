@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhawal
-- 👀 I’m interested in manifestation of creativity through code and quotes
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in life.
+- 🌱 I’m currently learning DSA!
 - 📫 Reach me at dhawalanand22@gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am a Poet.
