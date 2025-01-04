@@ -9,8 +9,8 @@ A passionate frontend and backend developer from India
 
 ## Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@dhawalshukla-blue?style=social&logo=twitter)](https://twitter.com/your-handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhawal%20Shukla-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dhawal-shukla)
+[![Twitter](https://img.shields.io/badge/Twitter-@dhawalshukla-blue?style=social&logo=twitter)](https://x.com/dhawalshukl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhawal%20Shukla-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dhawalshukl/)
 
 ## About Me:
 
