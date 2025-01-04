@@ -5,7 +5,7 @@ A passionate frontend and backend developer from India
 - 🌱 I’m currently learning **Advanced Java and Web Development**
 - 🔄 All of my projects are available at [GitHub](https://github.com/DhawalShankar)
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, C++**
-- 📍 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhawal-shukla)
+- 📍 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhawalshukl/)
 
 ## Connect with me:
 
