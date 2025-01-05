@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dhawal Shukla
+# Namaskar 👋, I'm Dhawal Shukla
 
 A passionate frontend and backend developer from India
 
