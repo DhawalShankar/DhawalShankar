@@ -14,7 +14,7 @@ A passionate frontend and backend developer from India
 
 ## About Me:
 
-- 👋 Hi, I’m @Dhawal
+- 👋 I’m @Dhawal
 - 👀 I’m interested in life.
 - 🌱 I’m currently learning to live!
 - 📢 Reach me at dhawalanand22@gmail.com
@@ -34,7 +34,7 @@ A passionate frontend and backend developer from India
 
 ## GitHub Stats:
 
-![Dhawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhawalShankar&show_icons=true&theme=radical)
+![Dhawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhawalShankar&show_icons=true&count_private=true&theme=radical)
 
 ## Most Used Languages:
 
