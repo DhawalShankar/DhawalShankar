@@ -52,10 +52,4 @@ A passionate frontend and backend developer from India
 
 ---
 
-## ⏳ Coding Activity (Optional - WakaTime Integration)  
 
-> **Enable WakaTime for accurate coding stats**: [Sign up here](https://wakatime.com/)  
-> Then, replace `your_wakatime_username` below with your actual WakaTime username.  
-
-```md
-![Dhawal's Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)
