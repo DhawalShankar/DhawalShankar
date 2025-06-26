@@ -49,7 +49,7 @@ A passionate full-stack web developer and aspiring software engineer from Bharat
 
 ### 🙇‍♂️ Final Note  
 
-> **"Na hum mein ahankaar ho, na hamare kaam mein dikhawa."**  
+> **"Mukarrar hai mukammal hogi wo nayaab manzil, fateh see faasle ab hum rakh nahi sakte!."**  
 > I code to create, I learn to grow, and I share to serve.
 
 ---
