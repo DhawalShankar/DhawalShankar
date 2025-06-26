@@ -1,10 +1,4 @@
 # 🙏 Namaskar, I'm Dhawal Shukla  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DhawalShankar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/license/DhawalShankar/gesture2text?style=flat" alt="License"/>
-  <img src="https://img.shields.io/github/repo-size/DhawalShankar/gesture2text" alt="Repo Size"/>
-  <img src="https://img.shields.io/github/last-commit/DhawalShankar/gesture2text" alt="Last Commit"/>
-</p>
 
 
 A passionate full-stack web developer and aspiring software engineer from Bharat 🇮🇳
