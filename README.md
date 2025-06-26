@@ -4,7 +4,7 @@ A passionate full-stack web developer and aspiring software engineer from Bharat
 
 - 🌱 Currently learning: **Advanced Java, Web Development, and Machine Learning**
 - 💼 Looking for internship opportunities in **Software Engineering / Web Dev / ML**
-- 📂 Check out my projects here: [GitHub](https://github.com/DhawalShankar)
+- 📂 Check out my projects here: [Portfolio](DhawalShankar.github.io)
 - 💬 Ask me about: **HTML, CSS, JavaScript, Java, C++**
 - 📫 Reach me: dhawalanand22@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhawalshukl/)
 - 🧠 Fun fact: I'm a poet and storyteller at heart ✍️
