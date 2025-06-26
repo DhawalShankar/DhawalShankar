@@ -49,7 +49,7 @@ A passionate full-stack web developer and aspiring software engineer from Bharat
 
 ### 🙇‍♂️ Final Note  
 
-> **"Mukarrar hai mukammal hogi wo nayaab manzil, fateh see faasle ab hum rakh nahi sakte!."**  
+> **"Mukarrar hai mukammal hogi wo nayaab manzil, fateh se faasle ab hum rakh nahi sakte!."**  
 > I code to create, I learn to grow, and I share to serve.
 
 ---
