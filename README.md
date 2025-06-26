@@ -35,7 +35,6 @@ A passionate full-stack web developer and aspiring software engineer from Bharat
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DhawalShankar&theme=radical&hide_border=false)
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhawalShankar&theme=radical)
 
 ---
