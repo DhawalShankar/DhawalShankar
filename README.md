@@ -37,8 +37,6 @@
 
 <!-- Tools & Platforms -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" alt="LeetCode" style="margin:8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="40" alt="CodeChef" style="margin:8px;"/>
 
 </div>
 
@@ -50,7 +48,8 @@
   
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhawalShankar&theme=radical)
   
-![Stats](https://github-readme-stats.vercel.app/api?username=DhawalShankar&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DhawalShankar&theme=radical&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawalShankar&layout=compact&langs_count=6&theme=radical&hide_border=true)
 
 </div>
