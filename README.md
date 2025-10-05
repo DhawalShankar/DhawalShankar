@@ -1,55 +1,77 @@
-# 🙏 Namaskar, I'm Dhawal Shukla  
+<h1 align="center">🙏 Namaskar, I'm <span style="color:#00bcd4;">Dhawal Shukla</span> 👋</h1>
 
+<p align="center">
+  <em>A passionate <b>Full-Stack Developer</b> & aspiring <b>Software Engineer</b> from Bharat 🇮🇳</em>
+</p>
 
-A passionate full-stack web developer and aspiring software engineer from Bharat 🇮🇳
-
-- 🌱 Currently learning: **Advanced Java, Web Development, and Machine Learning**
-- 💼 Looking for internship opportunities in **Software Engineering / Web Dev / ML**
-- 📂 Check out my projects here: [Portfolio](https://dhawalshankar.github.io/)
-- 💬 Ask me about: **React, Node.js, TailwindCSS, Java, C++**
-- 📫 Reach me: dhawalanand22@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhawalshukl/)
-- 🧠 Fun fact: I'm a poet and storyteller at heart ✍️
-
----
-
-## 🌐 Connect with me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhawal%20Shukla-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhawalshukl/)
-[![Twitter](https://img.shields.io/badge/Twitter-@dhawalshukla-blue?style=flat&logo=twitter)](https://x.com/dhawalshukl)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhawalshukl/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"/></a>
+  <a href="mailto:dhawalmannu@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat"/></a>
+  <a href="https://x.com/dhawalshukl"><img src="https://img.shields.io/badge/-Twitter-black?logo=x&logoColor=white&style=flat"/></a>
+  <a href="https://dhawalshankar.github.io/"><img src="https://img.shields.io/badge/-Website-0A66C2?style=flat&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠️ Languages & Tools  
+### 🌱 About Me  
 
-<div style="display:flex; gap:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
+- 🔭 Currently learning: **Advanced Java | Web Development | Machine Learning**  
+- 💼 Seeking: **Internships** in *Software Engineering / Full-Stack Dev / ML*  
+- 💬 Ask me about: **React · Node.js · Tailwind · Java · C++**  
+- 🧠 Fun fact: *Poet & Storyteller at heart ✍️*  
+
+---
+
+## 🧠 Tech Stack  
+
+<div align="center" style="display:flex;flex-wrap:wrap;gap:15px;justify-content:center;">
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" />
+
+<!-- Backend & DB -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=java,cpp,python" />
+
+<!-- Tools & Platforms -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" alt="LeetCode" style="margin:8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="40" alt="CodeChef" style="margin:8px;"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Insights  
 
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhawalShankar&theme=radical)
+<div align="center">
+  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhawalShankar&theme=radical)
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=DhawalShankar&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawalShankar&layout=compact&langs_count=6&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Projects Showcase  
+
+| Project | Description | Tech |
+|:--|:--|:--|
+| 🧠 **[IntelliSign](https://github.com/DhawalShankar/intellisign)** | Sign Language → Text Converter using AI + IoT | Python · CNN · Raspberry Pi |
+| 💳 **FeePortal** | MERN-based Student Fee Payment App | React · Node · Razorpay · Tailwind |
+| 🎓 **[ElectiveXchange](https://github.com/DhawalShankar/ElectiveXchange)** | A smart portal for student elective selection | React · Tailwind · Firebase |
 
 ---
 
-## 🚀 Most Used Languages  
+## 🪷 Final Words  
 
-> *(Languages are based on public repos only)*
+> **"Mukarrar hai mukammal hogi wo nayaab manzil,  
+> Fateh se faasle ab hum rakh nahi sakte !"**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawalShankar&layout=compact&langs_count=6&theme=radical&hide=html)
-
----
-
-### 🙇‍♂️ Final Note  
-
-> **"Mukarrar hai mukammal hogi wo nayaab manzil, fateh se faasle ab hum rakh nahi sakte!."**  
-> I code to create, I learn to grow, and I share to serve.
-
----
+<p align="center">
+✨ *I code to create, learn to grow, and serve to uplift.* ✨  
+</p>
