@@ -61,7 +61,7 @@
 | Project | Description | Tech |
 |:--|:--|:--|
 | 🧠 **[IntelliSign](https://github.com/DhawalShankar/intellisign)** | Sign Language → Text Converter using AI + IoT | Python · CNN · Raspberry Pi |
-| 💳  **[Cosmo India Prakashan](https://cosmo-india.vercel.app)**  | A Publication Website | React · Razorpay · Tailwind |
+| 💳  **[Cosmo India Prakashan](https://cosmo-india.vercel.app)**  | A Publication Website | React · Tailwind |
 | 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective selection | React · Tailwind · Firebase |
 
 ---
