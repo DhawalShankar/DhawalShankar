@@ -61,8 +61,8 @@
 | Project | Description | Tech |
 |:--|:--|:--|
 | 🧠 **[IntelliSign](https://github.com/DhawalShankar/intellisign)** | Sign Language → Text Converter using AI + IoT | Python · CNN · Raspberry Pi |
-| 💳 **FeePortal** | MERN-based Student Fee Payment App | React · Node · Razorpay · Tailwind |
-| 🎓 **[ElectiveXchange](https://github.com/DhawalShankar/ElectiveXchange)** | A smart portal for student elective selection | React · Tailwind · Firebase |
+| 💳  **[Cosmo India Prakashan](https://cosmo-india.vercel.app)**  | A Publication Website | React · Razorpay · Tailwind |
+| 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective selection | React · Tailwind · Firebase |
 
 ---
 
