@@ -1,6 +1,10 @@
 <h1 align="center">🙏 Namaskar, I'm <span style="color:#00bcd4;">Dhawal Shukla</span> 👋</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding GIF" width="150"/>
+</p>
+
+<p align="center">
   <em>A passionate <b>Full-Stack Developer</b> & aspiring <b>Software Engineer</b> from Bharat 🇮🇳</em>
 </p>
 
@@ -50,8 +54,6 @@
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=DhawalShankar&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawalShankar&layout=compact&langs_count=6&theme=radical&hide_border=true)
-
 </div>
 
 ---
@@ -60,9 +62,9 @@
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| 🧠 **[IntelliSign](https://github.com/DhawalShankar/intellisign)** | Sign Language → Text Converter using AI + IoT | Python · CNN · Raspberry Pi |
-| 💳  **[Cosmo India Prakashan](https://cosmo-india.vercel.app)**  | A Publication Website | React · Tailwind |
-| 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective selection | React · Tailwind · Firebase |
+| 🧠 **[IntelliSign](https://github.com/DhawalShankar/intellisign)** | Sign Language → Text Converter using ML | Python · CNN · MediaPipe · Tensorflow |
+| 💳  **[Cosmo India Prakashan](https://cosmo-india.vercel.app)**  | A Publishing House Website | React · Tailwind |
+| 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective swapping | React · Tailwind · Firebase |
 
 ---
 
