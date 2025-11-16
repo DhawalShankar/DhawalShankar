@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>A passionate <b>Full-Stack Developer</b> & aspiring <b>Software Engineer</b> from Bharat 🇮🇳</em>
+  <em>A passionate <b>Full-Stack Developer</b> & <b>Software Engineer</b> from Bharat 🇮🇳</em>
 </p>
 
 <p align="center">
