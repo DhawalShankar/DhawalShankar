@@ -19,9 +19,9 @@
 
 ### 🌱 About Me  
 
-- 🔭 Currently learning: **Advanced Java | Web Development | Machine Learning**  
-- 💼 Seeking: **Internships** in *Software Engineering / Full-Stack Dev / ML*  
-- 💬 Ask me about: **React · Node.js · Tailwind · Java · C++**  
+- 🔭 Currently learning: **DSA | Backend Systems | Flutter**  
+- 💼 Seeking: **Internships** in *Software Engineering / Full-Stack Dev / Backend Systems*  
+- 💬 Ask me about: **React · Node.js · Tailwind · Java · MongoDB · Firebase**  
 - 🧠 Fun fact: *Poet & Storyteller at heart ✍️*  
 
 ---
@@ -37,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=java,cpp,python" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 
 <!-- Tools & Platforms -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -63,7 +63,7 @@
 | Project | Description | Tech |
 |:--|:--|:--|
 | 🧠 **[IntelliSign](https://github.com/DhawalShankar/intellisign)** | Sign Language → Text Converter using ML | Python · CNN · MediaPipe · Tensorflow |
-| 💳  **[Cosmo India Prakashan](https://cosmo-india.vercel.app)**  | A Publishing House Website | React · Tailwind |
+| 💳  **[Cosmo India Prakashan](https://cosmo-india.vercel.app)**  | A Media and Publishing Company | React · Tailwind · MongoDB · Node |
 | 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective swapping | React · Tailwind · Firebase |
 
 ---
