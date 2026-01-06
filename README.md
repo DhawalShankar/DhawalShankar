@@ -62,8 +62,8 @@
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| 🧠 **[IntelliSign](https://github.com/DhawalShankar/intellisign)** | Sign Language → Text Converter using ML | Python · CNN · MediaPipe · Tensorflow |
-| 💳  **[Cosmo India Prakashan](https://cosmo-india.vercel.app)**  | A Media and Publishing Company | React · Tailwind · MongoDB · Node |
+| 🧠 **[VartaLang (Upcoming)](https://vartalang.in/)**  | A Professional Language Exchange Platform | Next.js · JWT · MongoDB · WebSockets
+| 💳  **[Cosmo India Prakashan](https://cosmoindiaprakashan.in)**  | A Media and Publishing Company | React · Tailwind · MongoDB · Node |
 | 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective swapping | React · Tailwind · Firebase |
 
 ---
