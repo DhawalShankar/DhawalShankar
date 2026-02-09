@@ -62,7 +62,7 @@
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| 🧠 **[VartaLang (Upcoming)](https://vartalang.in/)**  | A Professional Language Exchange Platform | Next.js · JWT · MongoDB · WebSockets
+| 🧠 **[VartaLang](https://vartalang.in/)**  | A Professional Language Exchange Platform | Next.js · JWT · MongoDB · WebSockets
 | 💳  **[Cosmo India Prakashan](https://cosmoindiaprakashan.in)**  | A Media and Publishing Company | React · Tailwind · MongoDB · Node |
 | 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective swapping | React · Tailwind · Firebase |
 
