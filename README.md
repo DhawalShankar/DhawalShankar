@@ -1,4 +1,4 @@
-<h1 align="center">🙏 Namaskar, I'm <span style="color:#00bcd4;">Dhawal Shukla</span> 👋</h1>
+<h1 align="center">🙏 Namaskaram, I'm <span style="color:#00bcd4;">Dhawal Shukla</span> 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding GIF" width="150"/>
@@ -19,9 +19,9 @@
 
 ### 🌱 About Me  
 
-- 🔭 Currently learning: **DSA | Backend Systems | Flutter**  
-- 💼 Seeking: **Internships** in *Software Engineering / Full-Stack Dev / Backend Systems*  
-- 💬 Ask me about: **React · Node.js · Tailwind · Java · MongoDB · Firebase**  
+- 🔭 Currently learning: **DSA | Backend Systems | DevOps**  
+- 💼 Seeking: **Internships** in *SWE / SDE / Backend roles*  
+- 💬 Ask me about: **Next.js · Node.js · Tailwind · Java · MongoDB · Firebase**  
 - 🧠 Fun fact: *Poet & Storyteller at heart ✍️*  
 
 ---
@@ -62,9 +62,9 @@
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| 🧠 **[VartaLang](https://vartalang.in/)**  | A Professional Language Exchange Platform | Next.js · JWT · MongoDB · WebSockets
-| 💳  **[Cosmo India Prakashan](https://cosmoindiaprakashan.in)**  | A Media and Publishing Company | React · Tailwind · MongoDB · Node |
-| 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective swapping | React · Tailwind · Firebase |
+| 🧠 **[VartaLang](https://vartalang.in/)**  | A Professional Language Exchange Platform | Next.js · Nodejs · JWT · MongoDB · WebSockets |
+| 💳  **[Cosmo India Prakashan](https://cosmoindiaprakashan.in)**  | A Media and Publishing Company | Nodejs · ReactJS · MongoDB · TailwindCSS |
+| 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective swapping | ReactJS · Firestore · Firebase(OAuth) · TailwindCSS  |
 
 ---
 
