@@ -22,6 +22,9 @@ Building systems, not just applications.
 <a href="https://pypi.org/project/churn-cli/"><img src="https://img.shields.io/pypi/v/churn-cli?style=for-the-badge&logo=pypi"></a>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DhawalShankar&style=for-the-badge"/>
+</p>
 
 ---
 
@@ -40,6 +43,23 @@ Everything lives at **https://thewittyswan.space**
 
 ---
 
+# 🎮 Dev Stat Card
+
+<!--
+  SETUP: this SVG is a static file, so it must live in the repo to be
+  referenced by a raw.githubusercontent.com link (same idea as the snake).
+  1. Add assets/rpg-card.svg (provided) to the DhawalShankar/DhawalShankar repo
+  2. Push to main
+  3. The image below will then render — edit the numbers/bars in the SVG
+     directly whenever you want to "level up"
+-->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DhawalShankar/DhawalShankar/main/assets/rpg-card.svg" width="700"/>
+</p>
+
+---
+
 # 🚀 Currently Building
 
 - 🦢 TheWittySwan
@@ -52,42 +72,13 @@ Everything lives at **https://thewittyswan.space**
 
 # ⭐ Featured Projects
 
-## 🦢 TheWittySwan
-A personal knowledge system built using Jekyll + Decap CMS with a separate Go-powered interactive terminal.
-
-🌐 https://thewittyswan.space
-
----
-
-## 📦 Churn
-
-AI Developer CLI
-
-- Interview generation
-- README generation
-- PRD generation
-- Architecture generation
-- Repository health checks
-
-https://github.com/DhawalShankar/project-churn
-
----
-
-## 💻 TheWittySwan Terminal
-
-Interactive browser terminal built with Go + xterm.js and hosted on a GCP e2-micro VM.
-
----
-
-## 🌍 VartaLang
-
-Real-time language exchange platform.
-
----
-
-## 📚 Cosmo India Prakashan
-
-Publishing platform with AI inventory and Razorpay integration.
+| Project | Description | GitHub | Live |
+|---|---|---|---|
+| 🦢 **TheWittySwan** | Personal knowledge system — Jekyll + Decap CMS with a Go-powered interactive terminal | — | [thewittyswan.space](https://thewittyswan.space) |
+| 📦 **Churn** | AI developer CLI — interview, README, PRD & architecture generation, repo health checks | [Repo](https://github.com/DhawalShankar/project-churn) | [PyPI](https://pypi.org/project/churn-cli/) |
+| 💻 **TheWittySwan Terminal** | Interactive browser terminal built with Go + xterm.js, self-hosted on a GCP e2-micro VM | — | — |
+| 🌍 **VartaLang** | Real-time language exchange platform | — | — |
+| 📚 **Cosmo India Prakashan** | Publishing platform with AI inventory and Razorpay integration | — | — |
 
 ---
 
@@ -137,4 +128,4 @@ Read about:
 
 ---
 
-> *"Simple systems are harder to build than complicated ones."*
+> *"Mukarrar hai, mukammal hogi woh nayaab manzil — fateh se faasle, ab hum rakh nahi sakte."*
