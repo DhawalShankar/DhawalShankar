@@ -22,10 +22,6 @@ Building systems, not just applications.
 <a href="https://pypi.org/project/churn-cli/"><img src="https://img.shields.io/pypi/v/churn-cli?style=for-the-badge&logo=pypi"></a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=DhawalShankar&style=for-the-badge"/>
-</p>
-
 ---
 
 # 🦢 About
@@ -74,11 +70,11 @@ Everything lives at **https://thewittyswan.space**
 
 | Project | Description | GitHub | Live |
 |---|---|---|---|
-| 🦢 **TheWittySwan** | Personal knowledge system — Jekyll + Decap CMS with a Go-powered interactive terminal | — | [thewittyswan.space](https://thewittyswan.space) |
+| 🦢 **TheWittySwan** | Personal knowledge system — Jekyll + Decap CMS with a Go-powered interactive terminal | [Repo](https://github.com/DhawalShankar/thewittyswan) | [thewittyswan.space](https://thewittyswan.space) |
 | 📦 **Churn** | AI developer CLI — interview, README, PRD & architecture generation, repo health checks | [Repo](https://github.com/DhawalShankar/project-churn) | [PyPI](https://pypi.org/project/churn-cli/) |
-| 💻 **TheWittySwan Terminal** | Interactive browser terminal built with Go + xterm.js, self-hosted on a GCP e2-micro VM | — | — |
-| 🌍 **VartaLang** | Real-time language exchange platform | — | — |
-| 📚 **Cosmo India Prakashan** | Publishing platform with AI inventory and Razorpay integration | — | — |
+| 💻 **TheWittySwan Terminal** | Interactive browser terminal built with Go + xterm.js, self-hosted on a GCP e2-micro VM | [Repo](https://github.com/DhawalShankar/thewittyswan-terminal) | [Terminal](https://thewittyswan.space/terminal) |
+| 🌍 **VartaLang** | Real-time language exchange platform | [Repo](https://github.com/DhawalShankar/vartalang) | [vartalang.in](https://vartalang.in) |
+| 📚 **Cosmo India Prakashan** | Publishing platform with AI inventory and Razorpay integration | [Repo](https://github.com/DhawalShankar/cosmo-india) | [cosmoindiaprakashan.in](https://cosmoindiaprakashan.in) |
 
 ---
 
