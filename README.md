@@ -1,78 +1,140 @@
-<h1 align="center">🙏 Namaskaram, I'm <span style="color:#00bcd4;">Dhawal Shukla</span> 👋</h1>
+# 🙏 Namaskaram, I'm Dhawal Shukla 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding GIF" width="150"/>
+  <!-- If this gif ever breaks, download it and host locally at assets/wave.gif,
+       then replace the src below with: assets/wave.gif -->
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="150"/>
 </p>
 
 <p align="center">
-  <em>A passionate <b>Full-Stack Developer</b> & <b>Software Engineer</b> from Bharat 🇮🇳</em>
+<b>🦢 Backend Engineer • Developer Tools • Network Security • TheWittySwan</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhawalshukl/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"/></a>
-  <a href="mailto:dhawalmannu@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat"/></a>
-  <a href="https://x.com/dhawalshukl"><img src="https://img.shields.io/badge/-Twitter-black?logo=x&logoColor=white&style=flat"/></a>
-  <a href="https://dhawalshankar.github.io/"><img src="https://img.shields.io/badge/-Website-0A66C2?style=flat&logo=vercel&logoColor=white"/></a>
+Building systems, not just applications.
 </p>
-
----
-
-### 🌱 About Me  
-
-- 🔭 Currently learning: **DSA | Backend Systems | DevOps**  
-- 💼 Seeking: **Internships** in *SWE / SDE / Backend roles*  
-- 💬 Ask me about: **Next.js · Node.js · Tailwind · Java · MongoDB · Firebase**  
-- 🧠 Fun fact: *Poet & Storyteller at heart ✍️*  
-
----
-
-## 🧠 Tech Stack  
-
-<div align="center" style="display:flex;flex-wrap:wrap;gap:15px;justify-content:center;">
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" />
-
-<!-- Backend & DB -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=java,python" />
-
-<!-- Tools & Platforms -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-## 📊 GitHub Insights  
-
-<div align="center">
-  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhawalShankar&theme=radical)
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=DhawalShankar&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Projects Showcase  
-
-| Project | Description | Tech |
-|:--|:--|:--|
-| 🧠 **[VartaLang](https://vartalang.in/)**  | A Professional Language Exchange Platform | Next.js · Nodejs · JWT · MongoDB · WebSockets |
-| 💳  **[Cosmo India Prakashan](https://cosmoindiaprakashan.in)**  | A Media and Publishing Company | Nodejs · ReactJS · MongoDB · PostgreSQL |
-| 🎓 **[ElectiveXchange](https://electivexchange.vercel.app/)** | A smart portal for student elective swapping | ReactJS · Firestore · Firebase(OAuth) · TailwindCSS  |
-
----
-
-## 🪷 Final Words  
-
-> **"Mukarrar hai mukammal hogi wo nayaab manzil,  
-> Fateh se faasle ab hum rakh nahi sakte !"**  
 
 <p align="center">
-✨ *I code to create, learn to grow, and serve to uplift.* ✨  
+<a href="https://thewittyswan.space"><img src="https://img.shields.io/badge/TheWittySwan-Website-black?style=for-the-badge&logo=vercel"></a>
+<a href="https://github.com/DhawalShankar"><img src="https://img.shields.io/github/followers/DhawalShankar?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/dhawalshukl"><img src="https://img.shields.io/badge/LinkedIn-Dhawal-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://leetcode.com/u/dhawalshankar"><img src="https://img.shields.io/badge/LeetCode-1617-orange?style=for-the-badge&logo=leetcode"></a>
+<a href="https://pypi.org/project/churn-cli/"><img src="https://img.shields.io/pypi/v/churn-cli?style=for-the-badge&logo=pypi"></a>
 </p>
+
+
+---
+
+# 🦢 About
+
+I'm a backend engineer who enjoys building developer tools, backend systems, AI workflows and self-hosted infrastructure.
+
+Outside software you'll usually find me writing about:
+
+- 🛡️ Network Security
+- ⚙️ Backend Engineering
+- 📚 Literature
+- 🤖 AI Engineering
+
+Everything lives at **https://thewittyswan.space**
+
+---
+
+# 🚀 Currently Building
+
+- 🦢 TheWittySwan
+- 📦 Churn
+- ⚡ Dezlora
+- 🖥️ TheWittySwan Terminal
+- 🔐 Security Labs
+
+---
+
+# ⭐ Featured Projects
+
+## 🦢 TheWittySwan
+A personal knowledge system built using Jekyll + Decap CMS with a separate Go-powered interactive terminal.
+
+🌐 https://thewittyswan.space
+
+---
+
+## 📦 Churn
+
+AI Developer CLI
+
+- Interview generation
+- README generation
+- PRD generation
+- Architecture generation
+- Repository health checks
+
+https://github.com/DhawalShankar/project-churn
+
+---
+
+## 💻 TheWittySwan Terminal
+
+Interactive browser terminal built with Go + xterm.js and hosted on a GCP e2-micro VM.
+
+---
+
+## 🌍 VartaLang
+
+Real-time language exchange platform.
+
+---
+
+## 📚 Cosmo India Prakashan
+
+Publishing platform with AI inventory and Razorpay integration.
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,go,python,js,ts,nodejs,express,fastapi,flask,mongodb,postgres,firebase,docker,git,github,linux,gcp,vercel,vscode"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<!--
+  SETUP REQUIRED (one-time, in the DhawalShankar/DhawalShankar repo):
+  1. Add .github/workflows/snake.yml (see the snake.yml file provided alongside this README)
+  2. Settings → Actions → General → Workflow permissions → "Read and write permissions"
+  3. Manually trigger the workflow once (Actions tab → "generate snake" → Run workflow)
+     This creates the `output` branch that the image below reads from.
+-->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DhawalShankar/DhawalShankar/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# ✍️ Latest Writing
+
+Visit **https://thewittyswan.space**
+
+Read about:
+
+- Network Security
+- Backend Engineering
+- Literature
+- Developer Tools
+
+---
+
+# 📬 Connect
+
+- 🌐 https://thewittyswan.space
+- 🐙 https://github.com/DhawalShankar
+- 💼 https://linkedin.com/in/dhawalshukl
+- 📦 https://pypi.org/project/churn-cli/
+
+---
+
+> *"Simple systems are harder to build than complicated ones."*
