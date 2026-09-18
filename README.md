@@ -60,7 +60,7 @@ Everything lives at **https://thewittyswan.space**
 
 - 🦢 TheWittySwan
 - 📦 Churn
-- ⚡ Dezlora
+- ⚡ Golang For All
 - 🖥️ TheWittySwan Terminal
 - 🔐 Security Labs
 
